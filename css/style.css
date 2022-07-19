@@ -276,11 +276,11 @@ header{
         width: 100%;    
         text-align: center;
         font-size: 10px;
-        margin-bottom: 0;
+        margin-bottom: 0 auto;
     }
 
    .logo-section{ 
-    margin-top: 0px;
+    margin-top: 0 auto;
     margin-bottom:30px;
     
    }
